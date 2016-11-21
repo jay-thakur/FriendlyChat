@@ -8,7 +8,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.appnichefriendlychat.R;
+import com.appniche.friendlychat.R;
 import com.bumptech.glide.Glide;
 
 import java.util.List;
